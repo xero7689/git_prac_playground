@@ -1,4 +1,4 @@
 import sys, os
 
 def foo():
-    pass
+    print("issue2")
