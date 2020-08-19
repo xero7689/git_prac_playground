@@ -1,5 +1,4 @@
 import sys, os
-import foo2
 
 def foo():
     print("issue2")
