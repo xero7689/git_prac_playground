@@ -18,4 +18,5 @@ def foo5():
 
 if __name__ == "__main__":
     foo()
+    print("Rebase from master")
 
