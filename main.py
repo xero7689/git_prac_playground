@@ -1,6 +1,6 @@
 import sys, os
 config = {
-    'debug': False
+    'debug': True
 }
 
 def foo():
