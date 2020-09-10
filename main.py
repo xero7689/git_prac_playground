@@ -1,4 +1,7 @@
 import sys, os
+config = {
+    'debug': False
+}
 
 def foo():
     print("issue2")
