@@ -15,6 +15,7 @@ def foo4():
 
 def foo5():
     print("foo5")
+    print("foo5_plus")
 
 if __name__ == "__main__":
     foo()
